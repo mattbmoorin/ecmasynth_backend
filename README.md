@@ -1,19 +1,5 @@
-# ECMASynth Backend
+# **_ECMASynth Back end_**
 
-- A Rails backend to implement storage
+#### _BACK END FOR NETLIFY_
 
-To do:
 
-- tweakable effects/parameters/modulation
-- save presets to database
-
-##### OR
-
-- store samples server side and have them selectable clientside
-
-###
-
-#### Extra features for down the road....
-
-- sequencer with preloaded patterns/memory banks
-- preloaded selectable samples
