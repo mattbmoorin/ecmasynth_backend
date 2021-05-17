@@ -1,5 +1,3 @@
 # **_ECMASynth Back end_**
 
-#### _BACK END FOR NETLIFY_
-
-
+#### _BACK END FOR HEROKU_
